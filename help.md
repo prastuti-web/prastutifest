@@ -1,4 +1,4 @@
-Note: Please make sure when you push the on github add virtual enviornment folder in .gitignore
+# Note: Please make sure when you push the code on github add virtual enviornment folders in .gitignore
 
 1. Creating virtual enviornment:   python -m venv <folder name>
 2. Initializing git in project:    git init
