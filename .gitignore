@@ -1,0 +1,6 @@
+#ignoring the enviornment file
+Lib
+Include
+Scripts
+*.cfg
+
